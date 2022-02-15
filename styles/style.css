@@ -9,26 +9,6 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-/* Сброс (если нужно будет) */
-
-p{
-  margin: 0;
-}
-h1,h2,h3,h4,h5{
-  margin: 0;
-}
-
-li{
-  list-style-type: none;
-}
-.ul{
-  padding: 0;
-}
-a{
-  text-decoration: none;
-}
-/* **************************************************
-
 /* header */
 .header {
   position: relative;
@@ -271,6 +251,7 @@ a{
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
+  margin: 0;
 }
 
 .table__text_theme_dark{
@@ -337,6 +318,7 @@ a{
   margin-top: 0;
   margin-bottom: 18px;
   padding: 0;
+  list-style-type: none;
 }
 
 .footer__column-link {
