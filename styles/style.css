@@ -44,7 +44,7 @@ a{
   width: 183px;
 }
 
-.logo__place-header {
+.logo_place-header {
   background-image: url(../images/logo_place_header.svg);
   position: absolute;
   top: 30px;
