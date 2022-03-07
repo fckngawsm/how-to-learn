@@ -5,6 +5,6 @@
     transition: opacity  linear 1s;
 }
 
-.header__link:hover{
+.header__link:hover {
     opacity: .8;
 }
