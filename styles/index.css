@@ -40,7 +40,6 @@
 @import url(../blocks/header/__title/header__title.css);
 /* kaufman */
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/table/table.css);
 @import url(../blocks/kaufman/table/__cell/table__cell.css);
 @import url(../blocks/kaufman/table/__cell/_theme_dark/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/table/__heading/table__heading.css);
@@ -77,6 +76,5 @@
 /* rotation */
 @import url(../blocks/rotation/rotation.css);
 /* video */
-@import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
