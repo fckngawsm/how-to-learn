@@ -3,14 +3,18 @@
         transform: rotate(0deg);
     }
     to{
-        transform:rotate(360deg);
+        transform: rotate(360deg);
     }
 }
 
-.header__square-pic {
+.rotation{
+    animation: rotation linear 20s infinite;
+}
+
+/* .header__square-pic {
     animation: rotation linear 20s infinite;
 }
 
 .kaufman__triangle {
     animation: rotation linear 20s infinite;
-}
+} */
